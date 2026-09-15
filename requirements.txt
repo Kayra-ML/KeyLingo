@@ -1,0 +1,7 @@
+deepl>=1.15.0
+pynput>=1.7.6
+pyperclip>=1.8.2
+python-dotenv>=1.0.0
+pyobjc-core>=9.0
+pyobjc-framework-Quartz>=9.0
+pyobjc-framework-Cocoa>=9.0
