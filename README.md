@@ -2,6 +2,14 @@
 
 macOS üzerinde arka planda çalışan, herhangi bir uygulamada (Discord, Chrome, Safari, Telegram, VS Code, Notlar, ChatGPT vb.) yazı yazarken aktif text input içindeki metni global kısayollarla anında **Türkçe ↔ İngilizce** çeviren hafif Python aracı.
 
+**Teknolojiler:** Python · macOS Quartz · DeepL API · klavye olayları · clipboard yönetimi
+
+### Neden geliştirdim?
+
+Uygulamalar arasında geçiş yapmadan, yazdığım metni bulunduğu alanda çevirebilmek için. Projenin odağı sadece çeviri isteği göndermek değil; aktif giriş alanını, klavye kısayollarını ve panoyu güvenli biçimde yönetmek.
+
+**English:** A Python utility for macOS that translates text in the active input field using global keyboard shortcuts and the DeepL API. It includes clipboard restoration and error-handling safeguards.
+
 ---
 
 ## 🎯 Özellikler
