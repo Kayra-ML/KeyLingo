@@ -158,3 +158,9 @@ translator/
 ├── test_translator.py   # Birim test paketi
 └── README.md            # Kurulum ve kullanım kılavuzu
 ```
+
+---
+
+## License
+
+MIT. See [LICENSE](LICENSE).
