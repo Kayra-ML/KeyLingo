@@ -46,7 +46,7 @@ Bu aracın global klavye olaylarını dinleyebilmesi, kısayolları suppress ede
 ## 🚀 Kurulum ve Çalıştırma
 
 ```bash
-git clone https://github.com/Kayra-ML/KeyLingo.git
+git clone https://github.com/Burak-ML/KeyLingo.git
 cd KeyLingo
 ```
 
